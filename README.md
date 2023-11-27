@@ -15,7 +15,6 @@ Multi Level Encryption (Ideation) is a Flask-based web application that allows u
 - [Built With](#built-with)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
