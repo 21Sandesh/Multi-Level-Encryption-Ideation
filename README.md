@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/multi-level-encryption.git`
+   `git clone https://github.com/21Sandesh/Multi-Level-Encryption-Ideation.git`
 
 2. Navigate to the Project Directory
    `cd multi-level-encryption`
